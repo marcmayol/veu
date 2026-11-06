@@ -1,0 +1,852 @@
+[
+  {
+    "motor": "whisper-turbo-hf",
+    "wer": 0.16033755274261605,
+    "wer_llano": 0.1518987341772152,
+    "rtf": 0.07111238743798928,
+    "segundos_por_frase": 0.3122287149997646,
+    "detalle": [
+      {
+        "archivo": "01.wav",
+        "referencia": "Añade una pantalla nueva en Compose que muestre el progreso de la ruta.",
+        "transcripcion": "Añade una pantalla nueva en Campus que muestre el progreso de la ruta.",
+        "errores": 1,
+        "palabras": 13,
+        "segundos": 0.77
+      },
+      {
+        "archivo": "02.wav",
+        "referencia": "Sube el versionCode y lanza el script de publicar release.",
+        "transcripcion": "Sube el version code y lanza el script de publicar Reléase.",
+        "errores": 3,
+        "palabras": 10,
+        "segundos": 0.26
+      },
+      {
+        "archivo": "03.wav",
+        "referencia": "El entrenamiento con LoRA se quedó sin VRAM a las tres horas.",
+        "transcripcion": "El entrenamiento con Lora se quedó sin Brahma a las tres horas.",
+        "errores": 1,
+        "palabras": 12,
+        "segundos": 0.26
+      },
+      {
+        "archivo": "04.wav",
+        "referencia": "Compila el módulo actualizador y firma el APK con la keystore de producción.",
+        "transcripcion": "Compila el módulo actualizador y firma el APK con la Keystore de producción.",
+        "errores": 0,
+        "palabras": 13,
+        "segundos": 0.31
+      },
+      {
+        "archivo": "05.wav",
+        "referencia": "Recuérdame revisar los extractos del BBVA antes del viernes.",
+        "transcripcion": "Recuérdame revisar los extractos del BBVA antes del viernes.",
+        "errores": 0,
+        "palabras": 9,
+        "segundos": 0.29
+      },
+      {
+        "archivo": "06.wav",
+        "referencia": "Quiero exportar Gemma a litertlm usando el recipe dynamic wi4 afp32.",
+        "transcripcion": "Quiero exportar Gemma Alitergim usando el Resapidynamic WAI-4 e IFP32.",
+        "errores": 7,
+        "palabras": 11,
+        "segundos": 0.38
+      },
+      {
+        "archivo": "07.wav",
+        "referencia": "Haz un commit con el mensaje arreglado el desbordamiento del contador.",
+        "transcripcion": "Haz un camit con el mensaje Arreglado el desbordamiento del contador.",
+        "errores": 1,
+        "palabras": 11,
+        "segundos": 0.3
+      },
+      {
+        "archivo": "08.wav",
+        "referencia": "La RTX 5070 Ti tiene dieciséis gigas de VRAM y eso limita el tamaño del batch.",
+        "transcripcion": "La RTX 5070 Ti tiene 16 GB de RAM y eso limita el tamaño del batch.",
+        "errores": 3,
+        "palabras": 16,
+        "segundos": 0.3
+      },
+      {
+        "archivo": "09.wav",
+        "referencia": "Mira si el webhook de n8n está devolviendo el CORS correcto.",
+        "transcripcion": "Mira si el Bebock de N8N está devolviendo el course correcto.",
+        "errores": 2,
+        "palabras": 11,
+        "segundos": 0.3
+      },
+      {
+        "archivo": "10.wav",
+        "referencia": "Escribe un test que falle cuando el cupón esté caducado.",
+        "transcripcion": "Escribe un test que falle cuando el cupón esté caducado.",
+        "errores": 0,
+        "palabras": 10,
+        "segundos": 0.25
+      },
+      {
+        "archivo": "11.wav",
+        "referencia": "Bon dia, avui he d'anar a Artà a comprar el pa.",
+        "transcripcion": "Buen día, abu y edéan ahora harta a comprar el pa.",
+        "errores": 8,
+        "palabras": 12,
+        "segundos": 0.27
+      },
+      {
+        "archivo": "12.wav",
+        "referencia": "El pipeline de datos tarda unos cuarenta y cinco minutos en procesarlo todo.",
+        "transcripcion": "El pipeline de datos tarda unos 45 minutos en procesarlo todo.",
+        "errores": 3,
+        "palabras": 13,
+        "segundos": 0.27
+      },
+      {
+        "archivo": "13.wav",
+        "referencia": "Ponme una notificación cada dos horas para registrar lo que como.",
+        "transcripcion": "Ponme una notificación cada dos horas para registrar lo que como.",
+        "errores": 0,
+        "palabras": 11,
+        "segundos": 0.25
+      },
+      {
+        "archivo": "14.wav",
+        "referencia": "Necesito que el atajo funcione aunque la ventana activa sea un terminal.",
+        "transcripcion": "Necesito que el atajo funcione aunque la ventana activa sea un terminal.",
+        "errores": 0,
+        "palabras": 12,
+        "segundos": 0.3
+      },
+      {
+        "archivo": "15.wav",
+        "referencia": "Cambia el color primario a un naranja más cálido, casi magenta.",
+        "transcripcion": "Cambia el color primario a un naranja más cálido, casi magenta.",
+        "errores": 0,
+        "palabras": 11,
+        "segundos": 0.28
+      },
+      {
+        "archivo": "16.wav",
+        "referencia": "¿Puedes revisar por qué el DataStore no persiste el anchor mode?",
+        "transcripcion": "Puedes revisar por qué el Data Store no persiste el Anchor Mode.",
+        "errores": 2,
+        "palabras": 11,
+        "segundos": 0.3
+      },
+      {
+        "archivo": "17.wav",
+        "referencia": "Instala las dependencias con pip y usa el entorno de Python tres punto doce.",
+        "transcripcion": "Instala las dependencias con PIP y usa el entorno de Paezan 3.12.",
+        "errores": 4,
+        "palabras": 14,
+        "segundos": 0.31
+      },
+      {
+        "archivo": "18.wav",
+        "referencia": "Al final el problema no era el driver del wifi, era la memoria RAM.",
+        "transcripcion": "Al final el problema no era el driver del Wi-Fi, era la memoria RAM.",
+        "errores": 2,
+        "palabras": 14,
+        "segundos": 0.28
+      },
+      {
+        "archivo": "19.wav",
+        "referencia": "Genera las ilustraciones de los ejercicios de cardio en formato SVG.",
+        "transcripcion": "Genera las ilustraciones de los ejercicios de cardio U en formato SVG.",
+        "errores": 1,
+        "palabras": 11,
+        "segundos": 0.29
+      },
+      {
+        "archivo": "20.wav",
+        "referencia": "Guarda esto en la carpeta del escritorio y hazme un resumen corto.",
+        "transcripcion": "Guarda esto en la carpeta del escritorio y hazme un resumen corto.",
+        "errores": 0,
+        "palabras": 12,
+        "segundos": 0.28
+      }
+    ],
+    "wer_util": 0.12658227848101267
+  },
+  {
+    "motor": "parakeet-tdt-0.6b-v3",
+    "wer": 0.18143459915611815,
+    "wer_llano": 0.18143459915611815,
+    "rtf": 0.03527358043104124,
+    "segundos_por_frase": 0.15487350499979585,
+    "detalle": [
+      {
+        "archivo": "01.wav",
+        "referencia": "Añade una pantalla nueva en Compose que muestre el progreso de la ruta.",
+        "transcripcion": "Añade una pantalla nueva en Campo Us que muestre el progreso de la ruta.",
+        "errores": 2,
+        "palabras": 13,
+        "segundos": 0.26
+      },
+      {
+        "archivo": "02.wav",
+        "referencia": "Sube el versionCode y lanza el script de publicar release.",
+        "transcripcion": "Sube el versión code y lanza el script de publicar RLAC.",
+        "errores": 3,
+        "palabras": 10,
+        "segundos": 0.15
+      },
+      {
+        "archivo": "03.wav",
+        "referencia": "El entrenamiento con LoRA se quedó sin VRAM a las tres horas.",
+        "transcripcion": "El entrenamiento con Lora se quedó sin Brahma a las tres horas.",
+        "errores": 1,
+        "palabras": 12,
+        "segundos": 0.14
+      },
+      {
+        "archivo": "04.wav",
+        "referencia": "Compila el módulo actualizador y firma el APK con la keystore de producción.",
+        "transcripcion": "Compila el módulo actualizador y firma el APK con la que histore de producción.",
+        "errores": 2,
+        "palabras": 13,
+        "segundos": 0.15
+      },
+      {
+        "archivo": "05.wav",
+        "referencia": "Recuérdame revisar los extractos del BBVA antes del viernes.",
+        "transcripcion": "Recuérdame revisar los extractos del BBVA antes del viernes.",
+        "errores": 0,
+        "palabras": 9,
+        "segundos": 0.15
+      },
+      {
+        "archivo": "06.wav",
+        "referencia": "Quiero exportar Gemma a litertlm usando el recipe dynamic wi4 afp32.",
+        "transcripcion": "Quiero exportar Gemmaliter Gim usando el Res API Dynamic WI4AFP32.",
+        "errores": 7,
+        "palabras": 11,
+        "segundos": 0.2
+      },
+      {
+        "archivo": "07.wav",
+        "referencia": "Haz un commit con el mensaje arreglado el desbordamiento del contador.",
+        "transcripcion": "Haz un camit con el mensaje arreglado el desbordamiento del contador.",
+        "errores": 1,
+        "palabras": 11,
+        "segundos": 0.14
+      },
+      {
+        "archivo": "08.wav",
+        "referencia": "La RTX 5070 Ti tiene dieciséis gigas de VRAM y eso limita el tamaño del batch.",
+        "transcripcion": "La RTX 5070T tiene 16 GB de BRAM y eso limita el tamaño del batch.",
+        "errores": 5,
+        "palabras": 16,
+        "segundos": 0.17
+      },
+      {
+        "archivo": "09.wav",
+        "referencia": "Mira si el webhook de n8n está devolviendo el CORS correcto.",
+        "transcripcion": "Mira si el bebog de N8N está devolviendo el course correcto.",
+        "errores": 2,
+        "palabras": 11,
+        "segundos": 0.16
+      },
+      {
+        "archivo": "10.wav",
+        "referencia": "Escribe un test que falle cuando el cupón esté caducado.",
+        "transcripcion": "Escribe un test que falle cuando el cupón esté caducado.",
+        "errores": 0,
+        "palabras": 10,
+        "segundos": 0.13
+      },
+      {
+        "archivo": "11.wav",
+        "referencia": "Bon dia, avui he d'anar a Artà a comprar el pa.",
+        "transcripcion": "Bom dia, abuille de a Narta a comprar el pa.",
+        "errores": 6,
+        "palabras": 12,
+        "segundos": 0.14
+      },
+      {
+        "archivo": "12.wav",
+        "referencia": "El pipeline de datos tarda unos cuarenta y cinco minutos en procesarlo todo.",
+        "transcripcion": "El pipeline de datos tarda unos 45 minutos en procesarlo todo.",
+        "errores": 3,
+        "palabras": 13,
+        "segundos": 0.14
+      },
+      {
+        "archivo": "13.wav",
+        "referencia": "Ponme una notificación cada dos horas para registrar lo que como.",
+        "transcripcion": "Ponme una notificación cada dos horas para registrar lo que como.",
+        "errores": 0,
+        "palabras": 11,
+        "segundos": 0.13
+      },
+      {
+        "archivo": "14.wav",
+        "referencia": "Necesito que el atajo funcione aunque la ventana activa sea un terminal.",
+        "transcripcion": "Necesito que el atajo funcione aunque la ventana activa sea un terminal.",
+        "errores": 0,
+        "palabras": 12,
+        "segundos": 0.15
+      },
+      {
+        "archivo": "15.wav",
+        "referencia": "Cambia el color primario a un naranja más cálido, casi magenta.",
+        "transcripcion": "Cambia el color primario a un naranja más cálido, casi magenta.",
+        "errores": 0,
+        "palabras": 11,
+        "segundos": 0.15
+      },
+      {
+        "archivo": "16.wav",
+        "referencia": "¿Puedes revisar por qué el DataStore no persiste el anchor mode?",
+        "transcripcion": "Puedes revisar por qué el data store no persiste el anchor mode.",
+        "errores": 2,
+        "palabras": 11,
+        "segundos": 0.15
+      },
+      {
+        "archivo": "17.wav",
+        "referencia": "Instala las dependencias con pip y usa el entorno de Python tres punto doce.",
+        "transcripcion": "Instala las dependencias con Pipeus al entorno de Python 3.12.",
+        "errores": 7,
+        "palabras": 14,
+        "segundos": 0.16
+      },
+      {
+        "archivo": "18.wav",
+        "referencia": "Al final el problema no era el driver del wifi, era la memoria RAM.",
+        "transcripcion": "Al final el problema no era el driver del Wi-Fi, era la memoria RAM.",
+        "errores": 2,
+        "palabras": 14,
+        "segundos": 0.15
+      },
+      {
+        "archivo": "19.wav",
+        "referencia": "Genera las ilustraciones de los ejercicios de cardio en formato SVG.",
+        "transcripcion": "Genera las ilustraciones de los ejercicios de cardio en formato SVG.",
+        "errores": 0,
+        "palabras": 11,
+        "segundos": 0.15
+      },
+      {
+        "archivo": "20.wav",
+        "referencia": "Guarda esto en la carpeta del escritorio y hazme un resumen corto.",
+        "transcripcion": "Guarda esto en la carpeta del escritorio y hazme un resumen corto.",
+        "errores": 0,
+        "palabras": 12,
+        "segundos": 0.14
+      }
+    ],
+    "wer_util": 0.15611814345991562
+  },
+  {
+    "motor": "faster-whisper-turbo",
+    "wer": 0.16455696202531644,
+    "wer_llano": 0.15611814345991562,
+    "rtf": 0.17167862639541345,
+    "segundos_por_frase": 0.753778615000192,
+    "detalle": [
+      {
+        "archivo": "01.wav",
+        "referencia": "Añade una pantalla nueva en Compose que muestre el progreso de la ruta.",
+        "transcripcion": "Añade una pantalla nueva en Campus que muestre el progreso de la ruta.",
+        "errores": 1,
+        "palabras": 13,
+        "segundos": 9.91
+      },
+      {
+        "archivo": "02.wav",
+        "referencia": "Sube el versionCode y lanza el script de publicar release.",
+        "transcripcion": "Sube el version code y lanza el script de publicar Reléase.",
+        "errores": 3,
+        "palabras": 10,
+        "segundos": 0.26
+      },
+      {
+        "archivo": "03.wav",
+        "referencia": "El entrenamiento con LoRA se quedó sin VRAM a las tres horas.",
+        "transcripcion": "El entrenamiento con Lora se quedó sin Brahma a las tres horas.",
+        "errores": 1,
+        "palabras": 12,
+        "segundos": 0.27
+      },
+      {
+        "archivo": "04.wav",
+        "referencia": "Compila el módulo actualizador y firma el APK con la keystore de producción.",
+        "transcripcion": "Compila el módulo actualizador y firma el APK con la Keystore de producción.",
+        "errores": 0,
+        "palabras": 13,
+        "segundos": 0.29
+      },
+      {
+        "archivo": "05.wav",
+        "referencia": "Recuérdame revisar los extractos del BBVA antes del viernes.",
+        "transcripcion": "Recuérdame revisar los extractos del BBVA antes del viernes.",
+        "errores": 0,
+        "palabras": 9,
+        "segundos": 0.26
+      },
+      {
+        "archivo": "06.wav",
+        "referencia": "Quiero exportar Gemma a litertlm usando el recipe dynamic wi4 afp32.",
+        "transcripcion": "Quiero exportar Gemma Alitergim usando el D-SAPI Dynamic WAI-4 e IFP32.",
+        "errores": 8,
+        "palabras": 11,
+        "segundos": 0.3
+      },
+      {
+        "archivo": "07.wav",
+        "referencia": "Haz un commit con el mensaje arreglado el desbordamiento del contador.",
+        "transcripcion": "Haz un kamit con el mensaje arreglado el desbordamiento del contador.",
+        "errores": 1,
+        "palabras": 11,
+        "segundos": 0.29
+      },
+      {
+        "archivo": "08.wav",
+        "referencia": "La RTX 5070 Ti tiene dieciséis gigas de VRAM y eso limita el tamaño del batch.",
+        "transcripcion": "La RTX 5070 Ti tiene 16 GB de RAM y eso limita el tamaño del batch.",
+        "errores": 3,
+        "palabras": 16,
+        "segundos": 0.28
+      },
+      {
+        "archivo": "09.wav",
+        "referencia": "Mira si el webhook de n8n está devolviendo el CORS correcto.",
+        "transcripcion": "Mira si el Bebock de N8N está devolviendo el course correcto.",
+        "errores": 2,
+        "palabras": 11,
+        "segundos": 0.27
+      },
+      {
+        "archivo": "10.wav",
+        "referencia": "Escribe un test que falle cuando el cupón esté caducado.",
+        "transcripcion": "Escribe un test que falle cuando el cupón esté caducado.",
+        "errores": 0,
+        "palabras": 10,
+        "segundos": 0.26
+      },
+      {
+        "archivo": "11.wav",
+        "referencia": "Bon dia, avui he d'anar a Artà a comprar el pa.",
+        "transcripcion": "Buen día, abu y edéan ahora harta a comprar el pa.",
+        "errores": 8,
+        "palabras": 12,
+        "segundos": 0.26
+      },
+      {
+        "archivo": "12.wav",
+        "referencia": "El pipeline de datos tarda unos cuarenta y cinco minutos en procesarlo todo.",
+        "transcripcion": "El pipeline de datos tarda unos 45 minutos en procesarlo todo.",
+        "errores": 3,
+        "palabras": 13,
+        "segundos": 0.25
+      },
+      {
+        "archivo": "13.wav",
+        "referencia": "Ponme una notificación cada dos horas para registrar lo que como.",
+        "transcripcion": "Ponme una notificación cada dos horas para registrar lo que como.",
+        "errores": 0,
+        "palabras": 11,
+        "segundos": 0.25
+      },
+      {
+        "archivo": "14.wav",
+        "referencia": "Necesito que el atajo funcione aunque la ventana activa sea un terminal.",
+        "transcripcion": "Necesito que el atajo funcione aunque la ventana activa sea un terminal.",
+        "errores": 0,
+        "palabras": 12,
+        "segundos": 0.27
+      },
+      {
+        "archivo": "15.wav",
+        "referencia": "Cambia el color primario a un naranja más cálido, casi magenta.",
+        "transcripcion": "Cambia el color primario a un naranja más cálido, casi magenta.",
+        "errores": 0,
+        "palabras": 11,
+        "segundos": 0.26
+      },
+      {
+        "archivo": "16.wav",
+        "referencia": "¿Puedes revisar por qué el DataStore no persiste el anchor mode?",
+        "transcripcion": "Puedes revisar por qué el Data Store no persiste el Anchor Mode.",
+        "errores": 2,
+        "palabras": 11,
+        "segundos": 0.28
+      },
+      {
+        "archivo": "17.wav",
+        "referencia": "Instala las dependencias con pip y usa el entorno de Python tres punto doce.",
+        "transcripcion": "Instala las dependencias con PIP y usa el entorno de Paezan 3.12.",
+        "errores": 4,
+        "palabras": 14,
+        "segundos": 0.28
+      },
+      {
+        "archivo": "18.wav",
+        "referencia": "Al final el problema no era el driver del wifi, era la memoria RAM.",
+        "transcripcion": "Al final el problema no era el driver del Wi-Fi, era la memoria RAM.",
+        "errores": 2,
+        "palabras": 14,
+        "segundos": 0.3
+      },
+      {
+        "archivo": "19.wav",
+        "referencia": "Genera las ilustraciones de los ejercicios de cardio en formato SVG.",
+        "transcripcion": "Genera las ilustraciones de los ejercicios de cardio U en formato SVG.",
+        "errores": 1,
+        "palabras": 11,
+        "segundos": 0.27
+      },
+      {
+        "archivo": "20.wav",
+        "referencia": "Guarda esto en la carpeta del escritorio y hazme un resumen corto.",
+        "transcripcion": "Guarda esto en la carpeta del escritorio y hazme un resumen corto.",
+        "errores": 0,
+        "palabras": 12,
+        "segundos": 0.27
+      }
+    ],
+    "wer_util": 0.1308016877637131
+  },
+  {
+    "motor": "whisper.cpp-turbo",
+    "wer": 0.16033755274261605,
+    "wer_llano": 0.1518987341772152,
+    "rtf": 3.6393980657705973,
+    "segundos_por_frase": 15.979277624999849,
+    "detalle": [
+      {
+        "archivo": "01.wav",
+        "referencia": "Añade una pantalla nueva en Compose que muestre el progreso de la ruta.",
+        "transcripcion": "Añade una pantalla nueva en Campo US que muestre el progreso de la ruta.",
+        "errores": 2,
+        "palabras": 13,
+        "segundos": 16.07
+      },
+      {
+        "archivo": "02.wav",
+        "referencia": "Sube el versionCode y lanza el script de publicar release.",
+        "transcripcion": "Sube el version code y lanza el script de publicar Reléase.",
+        "errores": 3,
+        "palabras": 10,
+        "segundos": 15.96
+      },
+      {
+        "archivo": "03.wav",
+        "referencia": "El entrenamiento con LoRA se quedó sin VRAM a las tres horas.",
+        "transcripcion": "El entrenamiento con Lora se quedó sin Brahma a las tres horas.",
+        "errores": 1,
+        "palabras": 12,
+        "segundos": 15.96
+      },
+      {
+        "archivo": "04.wav",
+        "referencia": "Compila el módulo actualizador y firma el APK con la keystore de producción.",
+        "transcripcion": "Compila el módulo actualizador y firma el APK con la Keystore de producción.",
+        "errores": 0,
+        "palabras": 13,
+        "segundos": 16.02
+      },
+      {
+        "archivo": "05.wav",
+        "referencia": "Recuérdame revisar los extractos del BBVA antes del viernes.",
+        "transcripcion": "Recuérdame revisar los extractos del BBVA antes del viernes.",
+        "errores": 0,
+        "palabras": 9,
+        "segundos": 15.99
+      },
+      {
+        "archivo": "06.wav",
+        "referencia": "Quiero exportar Gemma a litertlm usando el recipe dynamic wi4 afp32.",
+        "transcripcion": "Quiero exportar Gemma Alitergim usando el D-SAPI Dynamic WAI-4E y FP32.",
+        "errores": 8,
+        "palabras": 11,
+        "segundos": 16.04
+      },
+      {
+        "archivo": "07.wav",
+        "referencia": "Haz un commit con el mensaje arreglado el desbordamiento del contador.",
+        "transcripcion": "Haz un camit con el mensaje arreglado el desbordamiento del contador.",
+        "errores": 1,
+        "palabras": 11,
+        "segundos": 15.98
+      },
+      {
+        "archivo": "08.wav",
+        "referencia": "La RTX 5070 Ti tiene dieciséis gigas de VRAM y eso limita el tamaño del batch.",
+        "transcripcion": "La RTX 5070 Ti tiene 16 GB de RAM y eso limita el tamaño del batch.",
+        "errores": 3,
+        "palabras": 16,
+        "segundos": 15.99
+      },
+      {
+        "archivo": "09.wav",
+        "referencia": "Mira si el webhook de n8n está devolviendo el CORS correcto.",
+        "transcripcion": "Mira si el Bebock de N8N está devolviendo el course correcto.",
+        "errores": 2,
+        "palabras": 11,
+        "segundos": 15.98
+      },
+      {
+        "archivo": "10.wav",
+        "referencia": "Escribe un test que falle cuando el cupón esté caducado.",
+        "transcripcion": "Escribe un test que falle cuando el cupón esté caducado.",
+        "errores": 0,
+        "palabras": 10,
+        "segundos": 15.96
+      },
+      {
+        "archivo": "11.wav",
+        "referencia": "Bon dia, avui he d'anar a Artà a comprar el pa.",
+        "transcripcion": "Buen día, abu y de anar a harta a comprar el pa.",
+        "errores": 6,
+        "palabras": 12,
+        "segundos": 15.97
+      },
+      {
+        "archivo": "12.wav",
+        "referencia": "El pipeline de datos tarda unos cuarenta y cinco minutos en procesarlo todo.",
+        "transcripcion": "El pipeline de datos tarda unos 45 minutos en procesarlo todo.",
+        "errores": 3,
+        "palabras": 13,
+        "segundos": 15.94
+      },
+      {
+        "archivo": "13.wav",
+        "referencia": "Ponme una notificación cada dos horas para registrar lo que como.",
+        "transcripcion": "Ponme una notificación cada dos horas para registrar lo que como.",
+        "errores": 0,
+        "palabras": 11,
+        "segundos": 15.94
+      },
+      {
+        "archivo": "14.wav",
+        "referencia": "Necesito que el atajo funcione aunque la ventana activa sea un terminal.",
+        "transcripcion": "Necesito que el atajo funcione aunque la ventana activa sea un terminal.",
+        "errores": 0,
+        "palabras": 12,
+        "segundos": 15.98
+      },
+      {
+        "archivo": "15.wav",
+        "referencia": "Cambia el color primario a un naranja más cálido, casi magenta.",
+        "transcripcion": "Cambia el color primario a un naranja más cálido, casi magenta.",
+        "errores": 0,
+        "palabras": 11,
+        "segundos": 15.97
+      },
+      {
+        "archivo": "16.wav",
+        "referencia": "¿Puedes revisar por qué el DataStore no persiste el anchor mode?",
+        "transcripcion": "Puedes revisar por qué el Data Store no persiste el Anchor Mode.",
+        "errores": 2,
+        "palabras": 11,
+        "segundos": 15.95
+      },
+      {
+        "archivo": "17.wav",
+        "referencia": "Instala las dependencias con pip y usa el entorno de Python tres punto doce.",
+        "transcripcion": "Instala las dependencias con pip y usa el entorno de Paezan 3.12.",
+        "errores": 4,
+        "palabras": 14,
+        "segundos": 15.97
+      },
+      {
+        "archivo": "18.wav",
+        "referencia": "Al final el problema no era el driver del wifi, era la memoria RAM.",
+        "transcripcion": "Al final el problema no era el driver del Wi-Fi, era la memoria RAM.",
+        "errores": 2,
+        "palabras": 14,
+        "segundos": 15.98
+      },
+      {
+        "archivo": "19.wav",
+        "referencia": "Genera las ilustraciones de los ejercicios de cardio en formato SVG.",
+        "transcripcion": "Genera las ilustraciones de los ejercicios de cardio U en formato SVG.",
+        "errores": 1,
+        "palabras": 11,
+        "segundos": 15.97
+      },
+      {
+        "archivo": "20.wav",
+        "referencia": "Guarda esto en la carpeta del escritorio y hazme un resumen corto.",
+        "transcripcion": "Guarda esto en la carpeta del escritorio y hazme un resumen corto.",
+        "errores": 0,
+        "palabras": 12,
+        "segundos": 15.97
+      }
+    ],
+    "wer_util": 0.12658227848101267
+  },
+  {
+    "motor": "whisper-large-v3-hf",
+    "wer": 0.1518987341772152,
+    "wer_llano": 0.14767932489451477,
+    "rtf": 0.24995757791435916,
+    "segundos_por_frase": 1.097473114999957,
+    "detalle": [
+      {
+        "archivo": "01.wav",
+        "referencia": "Añade una pantalla nueva en Compose que muestre el progreso de la ruta.",
+        "transcripcion": "Añade una pantalla nueva en CampoUS que muestre el progreso de la ruta.",
+        "errores": 1,
+        "palabras": 13,
+        "segundos": 1.21
+      },
+      {
+        "archivo": "02.wav",
+        "referencia": "Sube el versionCode y lanza el script de publicar release.",
+        "transcripcion": "Sube el version code y lanza el script de publicar release.",
+        "errores": 2,
+        "palabras": 10,
+        "segundos": 1.0
+      },
+      {
+        "archivo": "03.wav",
+        "referencia": "El entrenamiento con LoRA se quedó sin VRAM a las tres horas.",
+        "transcripcion": "El entrenamiento con Lora se quedó sin Brahma las tres horas.",
+        "errores": 2,
+        "palabras": 12,
+        "segundos": 0.96
+      },
+      {
+        "archivo": "04.wav",
+        "referencia": "Compila el módulo actualizador y firma el APK con la keystore de producción.",
+        "transcripcion": "Compila el módulo actualizador y firma el APK con la que historie de producción.",
+        "errores": 2,
+        "palabras": 13,
+        "segundos": 1.25
+      },
+      {
+        "archivo": "05.wav",
+        "referencia": "Recuérdame revisar los extractos del BBVA antes del viernes.",
+        "transcripcion": "Recuérdame revisar los extractos del BBVA antes del viernes.",
+        "errores": 0,
+        "palabras": 9,
+        "segundos": 1.07
+      },
+      {
+        "archivo": "06.wav",
+        "referencia": "Quiero exportar Gemma a litertlm usando el recipe dynamic wi4 afp32.",
+        "transcripcion": "Quiero exportar Gemma a Litergm usando el DSA P-Dynamic WAI-4E-IFP32.",
+        "errores": 6,
+        "palabras": 11,
+        "segundos": 1.62
+      },
+      {
+        "archivo": "07.wav",
+        "referencia": "Haz un commit con el mensaje arreglado el desbordamiento del contador.",
+        "transcripcion": "Haz un commit con el mensaje arreglado el desbordamiento del contador.",
+        "errores": 0,
+        "palabras": 11,
+        "segundos": 1.15
+      },
+      {
+        "archivo": "08.wav",
+        "referencia": "La RTX 5070 Ti tiene dieciséis gigas de VRAM y eso limita el tamaño del batch.",
+        "transcripcion": "La RTX 5070 Ti tiene 16 GB de RAM y eso limita el tamaño del batch.",
+        "errores": 3,
+        "palabras": 16,
+        "segundos": 1.14
+      },
+      {
+        "archivo": "09.wav",
+        "referencia": "Mira si el webhook de n8n está devolviendo el CORS correcto.",
+        "transcripcion": "Mira si el Bebop DN8N está devolviendo el course correcto.",
+        "errores": 4,
+        "palabras": 11,
+        "segundos": 1.1
+      },
+      {
+        "archivo": "10.wav",
+        "referencia": "Escribe un test que falle cuando el cupón esté caducado.",
+        "transcripcion": "Escribe un test que falle cuando el cupón esté caducado.",
+        "errores": 0,
+        "palabras": 10,
+        "segundos": 0.9
+      },
+      {
+        "archivo": "11.wav",
+        "referencia": "Bon dia, avui he d'anar a Artà a comprar el pa.",
+        "transcripcion": "Buen día, hoy voy a comprar el pan.",
+        "errores": 9,
+        "palabras": 12,
+        "segundos": 0.76
+      },
+      {
+        "archivo": "12.wav",
+        "referencia": "El pipeline de datos tarda unos cuarenta y cinco minutos en procesarlo todo.",
+        "transcripcion": "El pipeline de datos tarda unos 45 minutos en procesarlo todo.",
+        "errores": 3,
+        "palabras": 13,
+        "segundos": 1.0
+      },
+      {
+        "archivo": "13.wav",
+        "referencia": "Ponme una notificación cada dos horas para registrar lo que como.",
+        "transcripcion": "Ponme una notificación cada dos horas para registrar lo que como.",
+        "errores": 0,
+        "palabras": 11,
+        "segundos": 0.87
+      },
+      {
+        "archivo": "14.wav",
+        "referencia": "Necesito que el atajo funcione aunque la ventana activa sea un terminal.",
+        "transcripcion": "Necesito que el atajo funcione aunque la ventana activa sea un terminal.",
+        "errores": 0,
+        "palabras": 12,
+        "segundos": 1.11
+      },
+      {
+        "archivo": "15.wav",
+        "referencia": "Cambia el color primario a un naranja más cálido, casi magenta.",
+        "transcripcion": "Cambia el color primario a un naranja más cálido, casi magenta.",
+        "errores": 0,
+        "palabras": 11,
+        "segundos": 1.05
+      },
+      {
+        "archivo": "16.wav",
+        "referencia": "¿Puedes revisar por qué el DataStore no persiste el anchor mode?",
+        "transcripcion": "Puedes revisar por qué el DataStore no persiste el Anchor Mode.",
+        "errores": 0,
+        "palabras": 11,
+        "segundos": 1.09
+      },
+      {
+        "archivo": "17.wav",
+        "referencia": "Instala las dependencias con pip y usa el entorno de Python tres punto doce.",
+        "transcripcion": "Instala las dependencias con PIP y usa el entorno de Python 3.12.",
+        "errores": 3,
+        "palabras": 14,
+        "segundos": 1.15
+      },
+      {
+        "archivo": "18.wav",
+        "referencia": "Al final el problema no era el driver del wifi, era la memoria RAM.",
+        "transcripcion": "Al final el problema no era el driver del wifi, era la memoria RAM.",
+        "errores": 0,
+        "palabras": 14,
+        "segundos": 1.03
+      },
+      {
+        "archivo": "19.wav",
+        "referencia": "Genera las ilustraciones de los ejercicios de cardio en formato SVG.",
+        "transcripcion": "Genera las ilustraciones de los ejercicios de cardio U en formato SVG.",
+        "errores": 1,
+        "palabras": 11,
+        "segundos": 1.1
+      },
+      {
+        "archivo": "20.wav",
+        "referencia": "Guarda esto en la carpeta del escritorio y hazme un resumen corto.",
+        "transcripcion": "Guarda esto en la carpeta del escritorio y hazme un resumen corto.",
+        "errores": 0,
+        "palabras": 12,
+        "segundos": 1.41
+      }
+    ],
+    "wer_util": 0.12236286919831224
+  }
+]

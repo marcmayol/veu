@@ -1,0 +1,21 @@
+# Base: grabar el corpus y evaluar. Sin esto no hace nada.
+numpy
+sounddevice
+soundfile
+
+# Motor por defecto (Whisper sobre transformers). torch va aparte porque en
+# Blackwell hay que pedir la rueda de CUDA 12.8 explicitamente:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu128
+transformers
+accelerate
+librosa
+
+# --- Motores opcionales (instala solo los que quieras comparar) ---
+# faster-whisper           # CTranslate2; puede no traer kernels sm_120
+# pywhispercpp             # whisper.cpp, plan B en CPU sin tocar la VRAM
+# mistral-common[audio]    # necesario para Voxtral Mini 3B
+# nemo_toolkit[asr]        # Parakeet / Canary de NVIDIA (pesado en Windows)
+
+# --- Fase 2: dictado global ---
+# pyperclip                # inyectar texto via portapapeles
+# pynput                   # atajo global si no usamos AutoHotkey
